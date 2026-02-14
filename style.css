@@ -25,7 +25,7 @@ body {
     border-radius: 16px;
     padding: 24px 24px 20px;
     margin-bottom: 16px;
-    box-shadow: 0 12px 32px rgba(15, 23, 42, 0, 86);
+    box-shadow: 0 12px 32px rgba(15, 23, 42, 0. 06);
     border: 1px solid #e5e7eb;
 }
 
@@ -77,5 +77,5 @@ body {
 .info-label {
     display: grid;
     color: #9ca3af;
-
 }
+

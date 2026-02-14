@@ -51,7 +51,7 @@ page {
 .info-grid {
     display: flex;
     grid-template-columns: repeat(2,minmax(0, 1fr));
-    gap: 6px 26px;
+    gap: 6px 56px;
     }
 
 .tag-list {
@@ -86,12 +86,6 @@ page {
     font-weihgt: bold;
     color: #9ca3af;
 }
-
-.info-item:nth-child(3) {
-    grid-column: 1;
-    grid-row: 3;
-}
-
 
 
 

@@ -78,6 +78,7 @@ page {
 .info-item {
     display: flex;
     margin-bottom: 8px;
+    flex-direction: column;
 }
 
 .info-label {
@@ -85,4 +86,5 @@ page {
     font-weihgt: bold;
     color: #9ca3af;
 }
+
 

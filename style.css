@@ -78,14 +78,15 @@ page {
 .info-item {
     display: flex;
     flex-direction: column;
-    margin-bottom: 8px;
 }
 
 .info-label {
     width: 80px;
     font-weihgt: bold;
     color: #9ca3af;
+    margin-bottom: 8px;
 }
+
 
 
 

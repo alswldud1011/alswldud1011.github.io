@@ -87,6 +87,11 @@ page {
     color: #9ca3af;
 }
 
+.info-item:nth-child(3) {
+    grid-column: 1;
+    grid-row: 3;
+}
+
 
 
 
